@@ -15,9 +15,13 @@
 # O que foi feito
 
 <ol>
-- O aluno produziu uma escultura no software Blender baseada em uma das esculturas deixadas como referência na página de temas da atividade, sendo assim houveram algumas diferenças da modelagem do vídeo em questão e a modelagem produzida. Desta forma a modelagem foi feita usando a ferramenta de sculping e as ferramentas contidas nesta mesma, além de técnicas de aplicação de texturas, cores e etc. Além disso outra escultura baseada em um alienígena tradicional também foi produzida usando tecnicas semelhantes.
+- O aluno produziu uma escultura no software Blender baseada em um alienígena da cultura popular que conhecemos. A escultura foi feita baseada em ferramentas de puxar e ressaltar polígonos para tomarem forma. Além disso outras técnicas não apresentadas no tutorial proposto foram aplicadas, Exemplo da ferramenta remesh para recalculação dos polígonos e deixar mais fácil de modelar. 
 
-# Código
+# Fotos da escultura
+-![Alien1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-afonso-provesi-neto/assets/142806753/74ae36cf-03e1-44be-8f3f-0034622e3a89)
+-![Alien2](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-afonso-provesi-neto/assets/142806753/ebe405a0-d8eb-4e2f-a430-07a56c28f0cc)
+-![Alien3](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-afonso-provesi-neto/assets/142806753/f9ddd2fe-3bc6-473b-b21d-5e31483f0e69)
+-![Alien4](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-afonso-provesi-neto/assets/142806753/c21b7adf-2fa9-45d8-a90f-084965f6139f)
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 

@@ -6,32 +6,16 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Afonso Provesi Neto
 
 ## Professor
 
-- Mestre Yoda
+- Will Machado
 
-# Documentação
+# O que foi feito
 
 <ol>
-<li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="docs/3-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/4-Metodologia.md"> Metodologia</a></li>
-<li><a href="docs/5-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/6-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/7-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/8-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/9-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/13-Referências.md"> Referências</a></li>
-</ol>
+- O aluno produziu uma escultura no software Blender baseada em uma das esculturas deixadas como referência na página de temas da atividade, sendo assim houveram algumas diferenças da modelagem do vídeo em questão e a modelagem produzida. Desta forma a modelagem foi feita usando a ferramenta de sculping e as ferramentas contidas nesta mesma, além de técnicas de aplicação de texturas, cores e etc. Além disso outra escultura baseada em um alienígena tradicional também foi produzida usando tecnicas semelhantes.
 
 # Código
 

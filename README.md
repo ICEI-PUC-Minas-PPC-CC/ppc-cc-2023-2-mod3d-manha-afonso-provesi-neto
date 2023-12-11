@@ -24,7 +24,7 @@
 -![Alien4](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-afonso-provesi-neto/assets/142806753/c21b7adf-2fa9-45d8-a90f-084965f6139f)
 
 #Video da Escultura
--https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-afonso-provesi-neto/assets/142806753/0a277f80-016c-4fc2-90ad-8d008ee55dbe
+[-https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-afonso-provesi-neto/assets/142806753/0a277f80-016c-4fc2-90ad-8d008ee55dbe](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-afonso-provesi-neto/issues/2#issue-2035785933)https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-afonso-provesi-neto/issues/2#issue-2035785933
 
 
 
